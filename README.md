@@ -1,7 +1,7 @@
 <h1 align="center"> 🌧 Aplicação de Clima 🌧 </h1>
 
 <div align="center">
-     <h3> Aplicação de Clima com OpenWeather API com base em um <a href="https://www.youtube.com/watch?v=VS8EBgPwsSU&ab_channel=MatheusBattisti-HoradeCodar">Tutorial</a></h3>
+     <h3> Aplicação de Clima com OpenWeather API com base em um <a href="https://www.youtube.com/watch?v=VS8EBgPwsSU&ab_channel=MatheusBattisti-HoradeCodar">tutorial</a></h3>
      <img src="img/clima2.jpg" style="width:40%"/>
      <br>
 </div>
