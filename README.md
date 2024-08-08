@@ -1,6 +1,6 @@
 <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=e269c7&size=30&center=true&vCenter=true&font=Paytone+One&duration=1&repeat=false&random=false&width=1000&lines=Aplicação+de+Clima" alt="Typing SVG" /></a></h2>
 
-Projeto de clima em javascript utilizando OpenWeather API, feito com base em um tutorial do youtube.
+Projeto com o objetivo de consultar o clima de qualquer cidade. Feito em javascript utilizando a api OpenWeather que é dados meteorológicos.
 <div align="center">
      <img src="img/clima2.jpg" style="height:370px;"/>
      <br>
@@ -15,5 +15,5 @@ Projeto de clima em javascript utilizando OpenWeather API, feito com base em um 
 </div><br>
 
 ### Links: 
-- <a href="https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&ab_channel=CursoemV%C3%ADdeo">Tutorial</a>
+- <a href="https://www.youtube.com/watch?v=VS8EBgPwsSU&ab_channel=MatheusBattisti-HoradeCodar">Tutorial</a>
 - <a href="https://beatrizaribeiro.github.io/Clima/">Projeto</a>
